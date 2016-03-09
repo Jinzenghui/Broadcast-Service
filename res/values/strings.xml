@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">testService</string>
+    <string name="counter">Counter: </string>
+    <string name="start">Start Counter</string>
+    <string name="stop">Stop Counter</string>
+</resources>
